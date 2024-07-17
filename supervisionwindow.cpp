@@ -27,7 +27,7 @@ SupervisionWindow::SupervisionWindow(QWidget *parent): QWidget(parent){
 }
 
 void SupervisionWindow::deleteTask(){
-    qDebug()<<"delete task";
+    qDebug()<<"delete task. Used Git push";
 }
 
 // Button implementations
